@@ -1,0 +1,7 @@
+<div style="text-align:center; background:#ddd; padding:10px;">
+    <h2>NEWS</h2>
+    <a href="DanhSachTinTucServlet">Danh sách tin tức</a> |
+    <a href="TinTucFormServlet">Thêm tin tức mới</a> |
+    <a href="QuanLyFormServlet">Chức năng quản lý</a>
+</div>
+<hr>
